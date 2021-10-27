@@ -9,10 +9,14 @@ body {
     background-position: top;
 }
 
+.ms_img-h100 {
+    height: 100%;
+}
+
 /* ***** header ***** */
 
 #ms_header-top {
-    height: 40px;
+    height: 30px;
     background-color: black;
 }
 
