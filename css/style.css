@@ -25,6 +25,10 @@ body {
     background-color: #CD3D0F;
 }
 
+.ms_bg-blue {
+    background-color: #2D64E6;
+}
+
 .ms_rounded {
     border-radius: 20px;
 }
@@ -65,6 +69,10 @@ body {
 
 /* ***** main ***** */
 
+#ms_new-console p {
+    color: grey;
+}
+
 #ms_new-games .ms_background {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
 }
@@ -88,7 +96,7 @@ body {
 
 /* .debug #ms_jumbo, */
 /* .debug #ms_new-console, */
-.debug #ms_new-games,
+/* .debug #ms_new-games, */
 .debug #ms_pre-console,
 .debug #ms_ps-plus,
 .debug #ms_ps-store,
@@ -102,9 +110,9 @@ body {
 } */
 
 
-.debug #ms_new-console {
+/* .debug #ms_new-console {
     background-color: grey;
-}
+} */
 
 
 /* .debug #ms_new-games {
