@@ -25,6 +25,14 @@ body {
     background-color: #CD3D0F;
 }
 
+.ms_rounded {
+    border-radius: 20px;
+}
+
+.ms_active {
+    border-color: #0172CE !important;
+}
+
 /* ***** header ***** */
 
 #ms_header-top {
@@ -54,7 +62,6 @@ body {
 #ms_jumbo .ms_padding {
     padding-top: 200px;
 }
-
 
 /* ***** main ***** */
 
