@@ -46,7 +46,7 @@ body {
 }
 
 
-.debug #ms_jumbo,
+/* .debug #ms_jumbo, */
 .debug #ms_new-console,
 .debug #ms_new-games,
 .debug #ms_pre-console,
@@ -98,7 +98,7 @@ body {
 
 
 .debug #footer-top {
-    height: 200px;
+    height: 400px;
     background-color: violet;
 }
 
