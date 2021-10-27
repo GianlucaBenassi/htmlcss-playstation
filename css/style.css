@@ -126,6 +126,10 @@ footer {
     height: 1.2rem;
 }
 
+#ms_sie-logo {
+    max-width: 130px;
+}
+
 /* +++++ debug ++++++ */
 
 .debug .ms_box {
@@ -196,7 +200,7 @@ footer {
     background-color: violet;
 } */
 
-.debug #ms_footer-bottom {
+/* .debug #ms_footer-bottom {
     height: 200px;
     background-color: lightsalmon;
-}
+} */
