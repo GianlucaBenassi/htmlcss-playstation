@@ -37,6 +37,11 @@ body {
     border-color: #0172CE !important;
 }
 
+.ms_tm {
+    font-size: .5rem;
+    vertical-align: text-top;
+}
+
 /* ***** header ***** */
 
 #ms_header-top {
