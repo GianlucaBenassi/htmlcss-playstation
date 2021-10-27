@@ -73,6 +73,11 @@ body {
     color: grey;
 }
 
+
+#ms_new-games {
+    background-color: #1F1F1F;
+}
+
 #ms_new-games .ms_background {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
 }
