@@ -33,6 +33,10 @@ body {
     background-color: #D9DADC;
 }
 
+.ms_bg-white {
+    background-color: #fff;
+}
+
 .ms_rounded {
     border-radius: 20px;
 }
@@ -108,6 +112,10 @@ body {
     background-color: #BEBCBB;
 }
 
+#ms_ps-now {
+    background-color: #161C3B;
+}
+
 /* ***** footer ***** */
 
 
@@ -131,7 +139,7 @@ body {
 /* .debug #ms_pre-console, */
 /* .debug #ms_ps-plus, */
 /* .debug #ms_ps-store, */
-.debug #ms_ps-now,
+/* .debug #ms_ps-now, */
 .debug #ms_social {
     height: 500px;
 }
@@ -166,9 +174,9 @@ body {
 } */
 
 
-.debug #ms_ps-now {
+/* .debug #ms_ps-now {
     background-color: pink;
-}
+} */
 
 
 .debug #ms_social {
