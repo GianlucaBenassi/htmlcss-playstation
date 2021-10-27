@@ -13,6 +13,14 @@ body {
     height: 100%;
 }
 
+.ms_dropdown-toggle::after {
+    width: 10px;
+    display: inline-block;
+    margin-left: 0.255em;
+    content: url("../img/chevron-down-solid.svg");
+    vertical-align: -0.1em;
+}
+
 /* ***** header ***** */
 
 #ms_header-top {
@@ -49,10 +57,10 @@ body {
     border: 1px solid black;
 }
 
-.debug #header-bottom {
+/* .debug #header-bottom {
     height: 80px;
     background-color: blue;
-}
+} */
 
 
 /* .debug #ms_jumbo, */
