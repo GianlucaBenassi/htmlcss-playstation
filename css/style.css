@@ -28,6 +28,14 @@ body {
     background-color: black;
 }
 
+#ms_login {
+    background-color: #363636;
+    max-width: 85px;
+}
+
+#ms_search {
+    width: 1.5rem;
+}
 
 /* ***** jumbo ***** */
 
