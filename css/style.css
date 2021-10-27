@@ -5,4 +5,16 @@ body {
 }
 
 
+/* ***** header ***** */
+
+#ms_header-top {
+    height: 40px;
+    background-color: black;
+}
+
 /* +++++ debug ++++++ */
+
+.debug #header-bottom {
+    height: 80px;
+    background-color: blue;
+}
