@@ -9,10 +9,6 @@ body {
     background-position: top;
 }
 
-.ms_img-h100 {
-    height: 100%;
-}
-
 .ms_dropdown-toggle::after {
     width: 10px;
     display: inline-block;
@@ -21,11 +17,23 @@ body {
     vertical-align: -0.1em;
 }
 
+.ms_banner-logo {
+    width: 50%;
+}
+
+.ms_bg-orange {
+    background-color: #CD3D0F;
+}
+
 /* ***** header ***** */
 
 #ms_header-top {
     height: 30px;
     background-color: black;
+}
+
+#ms_header-top img {
+    height: 100%;
 }
 
 #ms_login {
@@ -72,7 +80,7 @@ body {
 
 
 /* .debug #ms_jumbo, */
-.debug #ms_new-console,
+/* .debug #ms_new-console, */
 .debug #ms_new-games,
 .debug #ms_pre-console,
 .debug #ms_ps-plus,
