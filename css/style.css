@@ -18,3 +18,55 @@ body {
     height: 80px;
     background-color: blue;
 }
+
+
+.debug #ms_last-games,
+.debug #ms_new-console,
+.debug #ms_new-games,
+.debug #ms_pre-console,
+.debug #ms_ps-plus,
+.debug #ms_ps-store,
+.debug #ms_ps-now,
+.debug #ms_social {
+    height: 500px;
+}
+
+.debug #ms_last-games {
+    background-color: green;
+}
+
+
+.debug #ms_new-console {
+    background-color: grey;
+}
+
+
+.debug #ms_new-games {
+    background-color: yellow;
+}
+
+
+.debug #ms_pre-console {
+    background-color: brown;
+}
+
+
+.debug #ms_ps-plus {
+    background-color: red;
+}
+
+
+.debug #ms_ps-store {
+    background-color: cyan;
+}
+
+
+.debug #ms_ps-now {
+    background-color: pink;
+}
+
+
+.debug #ms_social {
+    background-color: teal;
+}
+
