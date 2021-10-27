@@ -118,6 +118,13 @@ body {
 
 /* ***** footer ***** */
 
+footer {
+    background-color: #00439C;
+}
+
+#ms_globe {
+    height: 1.2rem;
+}
 
 /* +++++ debug ++++++ */
 
@@ -184,12 +191,12 @@ body {
 } */
 
 
-.debug #footer-top {
+/* .debug #ms_footer-top {
     height: 400px;
     background-color: violet;
-}
+} */
 
-.debug #footer-bottom {
+.debug #ms_footer-bottom {
     height: 200px;
     background-color: lightsalmon;
 }
