@@ -70,3 +70,13 @@ body {
     background-color: teal;
 }
 
+
+.debug #footer-top {
+    height: 200px;
+    background-color: violet;
+}
+
+.debug #footer-bottom {
+    height: 200px;
+    background-color: lightsalmon;
+}
