@@ -4,6 +4,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.ms_background {
+    background-size: cover;
+    background-position: top;
+}
 
 /* ***** header ***** */
 
@@ -17,8 +21,6 @@ body {
 
 #ms_jumbo .ms_background {
     background-image: url("../img/jumbo-bg.png");
-    background-size: cover;
-    background-position: top;
 }
 
 #ms_jumbo .ms_padding {
@@ -28,6 +30,9 @@ body {
 
 /* ***** main ***** */
 
+#ms_new-games .ms_background {
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+}
 
 /* ***** footer ***** */
 
@@ -67,9 +72,9 @@ body {
 }
 
 
-.debug #ms_new-games {
+/* .debug #ms_new-games {
     background-color: yellow;
-}
+} */
 
 
 .debug #ms_pre-console {
