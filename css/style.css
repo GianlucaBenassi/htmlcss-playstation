@@ -45,19 +45,8 @@ body {
     border-color: #0172CE !important;
 }
 
-.ms_tm {
-    font-size: .5em;
-    vertical-align: text-top;
-}
-
-.ms_r {
+.ms_top-text {
     font-size: .4em;
-    vertical-align: text-top;
-    display: inline-block;
-    width: 1.1em;
-    height: 1.1em;
-    border: 1px solid black;
-    border-radius: 50%;
 }
 
 
