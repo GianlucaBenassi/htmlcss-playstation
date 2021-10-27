@@ -90,7 +90,8 @@ body {
 /* ***** main ***** */
 
 #ms_new-console p,
-#ms_pre-console p {
+#ms_pre-console p,
+#ms_ps-store p {
     color: grey;
 }
 
@@ -129,7 +130,7 @@ body {
 /* .debug #ms_new-games, */
 /* .debug #ms_pre-console, */
 /* .debug #ms_ps-plus, */
-.debug #ms_ps-store,
+/* .debug #ms_ps-store, */
 .debug #ms_ps-now,
 .debug #ms_social {
     height: 500px;
@@ -160,9 +161,9 @@ body {
 } */
 
 
-.debug #ms_ps-store {
+/* .debug #ms_ps-store {
     background-color: cyan;
-}
+} */
 
 
 .debug #ms_ps-now {
