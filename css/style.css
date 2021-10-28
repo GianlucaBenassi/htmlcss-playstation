@@ -157,6 +157,10 @@ footer {
     background-color: #00439C;
 }
 
+#ms_footer-top a:hover {
+    text-decoration: underline !important;
+}
+
 #ms_globe {
     height: 1.2rem;
 }
