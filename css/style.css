@@ -56,6 +56,17 @@ body {
 .ms_position-reset {
     position: initial;
 }
+
+button:hover {
+    box-shadow: 0px 0px 0px 3px rgb(255,255,255) inset;
+}
+
+button.ms_bg-white:hover {
+    box-shadow: 0px 0px 0px 3px rgb(0,0,0) inset;
+}
+
+
+
 /* ***** header ***** */
 
 #ms_header-top {
