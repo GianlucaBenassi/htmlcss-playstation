@@ -33,6 +33,10 @@ body {
     background-color: #D9DADC;
 }
 
+.ms_bg-darkgrey {
+    background-color: #363636;
+}
+
 .ms_bg-white {
     background-color: #fff;
 }
@@ -59,9 +63,12 @@ body {
     background-color: black;
 }
 
-#ms_login {
-    background-color: #363636;
-    max-width: 85px;
+#ms_header-bottom .nav-item:hover .ms_dropdown-toggle::after {
+    content: url("../img/chevron-down-solid-hover.svg");
+}
+
+#ms_header-bottom .nav-item:hover > a {
+    color: #0070D1 !important;
 }
 
 #ms_search {
