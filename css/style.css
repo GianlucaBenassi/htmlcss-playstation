@@ -116,6 +116,16 @@ button.ms_bg-white:hover {
     color: grey;
 }
 
+#ms_ps-store img,
+#ms_social img {
+    transition: all .3s;
+}
+
+#ms_ps-store img:hover,
+#ms_social img:hover {
+    transform: scale(1.02);
+}
+
 
 #ms_new-device .col {
     transition: all .3s;
@@ -124,7 +134,6 @@ button.ms_bg-white:hover {
 #ms_new-device .col:hover {
     opacity: 1 !important;
 }
-
 
 #ms_new-games {
     background-color: #1F1F1F;
