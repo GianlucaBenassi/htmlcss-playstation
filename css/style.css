@@ -100,6 +100,14 @@ button.ms_bg-white:hover {
     padding-top: 200px;
 }
 
+#ms_jumbo-games img {
+    transition: all .3s;
+}
+
+#ms_jumbo-games img:hover {
+    transform: translate(0px, -10px);
+}
+
 /* ***** main ***** */
 
 #ms_new-console p,
