@@ -117,6 +117,15 @@ button.ms_bg-white:hover {
 }
 
 
+#ms_new-device .col {
+    transition: all .3s;
+}
+
+#ms_new-device .col:hover {
+    opacity: 1 !important;
+}
+
+
 #ms_new-games {
     background-color: #1F1F1F;
 }
