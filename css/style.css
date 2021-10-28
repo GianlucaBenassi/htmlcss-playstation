@@ -49,7 +49,9 @@ body {
     font-size: .4em;
 }
 
-
+.ms_position-reset {
+    position: initial;
+}
 /* ***** header ***** */
 
 #ms_header-top {
